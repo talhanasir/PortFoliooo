@@ -46,12 +46,12 @@ const AboutTwo = () => {
                 </div>
                 <div className="about-text">
                   <p>
-                  I'm a passionate front-end developer with a talent for crafting visually appealing and user-friendly web applications. With expertise in React.js, TypeScript, and modern CSS frameworks like Tailwind CSS and Bootstrap, he specializes in creating seamless user interfaces and enhancing user experiences.
+                  I'm a passionate front-end developer with a talent for crafting visually appealing and user-friendly web applications. With expertise in React.js, TypeScript, and modern CSS frameworks, I specialize in creating seamless user interfaces and enhancing user experiences.
                   </p>
                   <p>
-                  I excels in building responsive, dynamic, and scalable applications, ensuring cross-browser compatibility and optimal performance. I have a keen eye for detail and a deep understanding of state management, API integrations, and Single Page Applications (SPAs). Collaborating with designers and backend developers, I ensure a cohesive and polished product from concept to deployment.
+                  I excel in building responsive, dynamic, and scalable applications, ensuring cross-browser compatibility and optimal performance. I have a keen eye for detail and a deep understanding of state management, API integrations, and single-page applications (SPAs). Collaborating with designers and backend developers, I ensure a cohesive and polished product from concept to deployment.
 
-Driven by a commitment to innovation, I stay updated on the latest front-end trends and technologies to deliver cutting-edge solutions. When I'm not coding, I enjoy exploring new technologies, playing pickleball, and spending time with family and friends.
+Driven by a commitment to innovation, I stay updated on the latest front-end trends and technologies to deliver cutting-edge solutions. When not coding, I enjoy exploring new technologies, playing pickleball, and spending time with family and friends.
                   </p>
                 </div>
                 <div className="info-list">
