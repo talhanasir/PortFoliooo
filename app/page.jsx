@@ -1,7 +1,7 @@
 import HomeLightSidebarTwo from "./dark-particle-effect/page";
 import Preview from "./preview/page";
 export const metadata = {
-  title: "Nario - Preview || Nairo React Nextjs Personal Portfolio Template",
+  title: "Muhammad's Portfolio",
 };
 export default function Home() {
   return (
